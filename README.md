@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jiaqi Lu
 - 👀 I’m interested in theoretical computer science, especially complexity theory.
-- 🌱 I’m currently pursuing my M.Sc in MFoCS in Oxford.
+- 🌱 I’m currently pursuing my MRes in AI & Machine Learning in Imperil College London.
 
 
 <!---
